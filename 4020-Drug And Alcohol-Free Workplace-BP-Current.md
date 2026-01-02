@@ -1,0 +1,93 @@
+# 4020 - Drug And Alcohol-Free Workplace
+
+**Type:** BP  
+**Version:** Current  
+**Status (from API):** ADOPTED  
+**Original Adopted:** 07/01/2002  
+**Last Revised:** 11/01/2010
+
+---
+
+## Policy Content
+
+CSBA NOTE: Government Code 8355 mandates state grant recipients such as a school district to certify to the state contracting agency (e.g., the California Department of Education (CDE)) that it agrees to provide a drug-free workplace by taking the actions specified below. Federal grantees are also subject to the same requirements and must provide the same certifications under the federal Drug-Free Workplace Act (41 USC 8101-8106).Federal law contains independent requirements for the drug and alcohol testing of school bus drivers; see BP/AR 4112.42/4212.42/4312.42 - Drug and Alcohol Testing for School Bus Drivers. For language regarding a drug testing program for other employees, see BP/AR 4112.41/4212.41/4312.41 - Employee Drug Testing.
+The Governing Board believes that the maintenance of a drug- and alcohol-free workplace is essential to staff and student safety and to help ensure a productive and safe work and learning environment.
+
+An employee shall not unlawfully manufacture, distribute, dispense, possess, or use any controlled substance in the workplace.  (Government Code 8355; 41 USC 8103)
+
+CSBA NOTE: The following optional paragraph prohibits an employee from being under the influence of alcohol or a controlled substance while on duty and should be modified to reflect district practice.
+Employees are prohibited from being under the influence of controlled substances or alcohol while on duty.  For purposes of this policy, on duty means while an employee is on duty during both instructional and noninstructional time in the classroom or workplace, at extracurricular or cocurricular activities, or while transporting students or otherwise supervising them.  Under the influence means that the employee's capabilities are adversely or negatively affected, impaired, or diminished to an extent that impacts the employee's ability to safely and effectively perform his/her job.
+
+CSBA NOTE: Government Code 8355 and 41 USC 8103 require the district to certify to the CDE that it has published a statement that notifies employees of the (1) prohibition against drug use, (2) actions that will be taken by the district in the event of a violation, and (3) requirement that employees, as a condition of employment, abide by the district's policy and notify the district in the event of a conviction.
+The Superintendent or designee shall notify employees of the district's prohibition against drug use and the actions that will be taken for violation of such prohibition.   (Government Code 8355; 41 USC 8103)
+
+An employee shall abide by the terms of this policy and shall notify the district, within five days, of his/her conviction for violation in the workplace of any criminal drug statute. (Government Code 8355; 41 USC 8103)
+
+The Superintendent or designee shall notify the appropriate federal granting or contracting agency within 10 days after receiving notification, from an employee or otherwise, of any conviction for a violation occurring in the workplace.  (41 USC 8103)
+
+CSBA NOTE: 41 USC 8104 requires the district, within 30 days of receiving notification from an employee of his/her conviction of a controlled substance offense, to either discipline the employee or require him/her to complete a drug rehabilitation program as specified below. Pursuant to Education Code 44940 and 45304, the district must place an employee on a mandatory leave of absence if he/she is charged with any offense involving aiding or abetting the unlawful sale, use, or exchange to minors of certain controlled substances listed in Health and Safety Code 11054, 11055, and 11056. In the case of a certificated employee, the district must report the mandatory leave of absence offense to the Commission on Teacher Credentialing (CTC) (see BP 4117.7/4317.7 - Employment Status Reports); if the employee is convicted, the CTC will revoke his/her credential. In addition, pursuant to Education Code 44940 and 45304, district may place a certificated or classified employee on a compulsory leave of absence when he/she is charged with a controlled substance offense as defined in Education Code 44011. If the employee is ultimately convicted of the offense, Education Code 44836 and 45123 require the employee to be dismissed. See AR 4118 - Dismissal/Suspension/Disciplinary Action, and see AR 4218 - Dismissal/Suspension/Disciplinary Action.
+In accordance with law and the district's collective bargaining agreements, the Superintendent or designee shall take appropriate disciplinary action, up to and including termination, against an employee for violating the terms of this policy and/or shall require the employee to satisfactorily participate in and complete a drug assistance or rehabilitation program approved by a federal, state, or local public health or law enforcement agency or other appropriate agency.
+
+Drug-Free Awareness Program
+
+The Superintendent or designee shall establish a drug-free awareness program to inform employees about:  (Government Code 8355; 41 USC 8103)
+
+	The dangers of drug abuse in the workplace
+	 
+	The district's policy of maintaining a drug-free workplace
+	 
+	Available drug counseling, rehabilitation, and employee assistance programs
+	 
+	The penalties that may be imposed on employees for drug abuse violations occurring in the workplace
+
+---
+
+## HTML Content
+
+<html>
+<head>
+	<title></title>
+	<link href="https://simbli.eboardsolutions.com/ckeditor/plugins/lite/css/lite.css?n=5" id="__lite__css__" rel="stylesheet" type="text/css">
+	<link href="https://simbli.eboardsolutions.com/ckeditor/plugins/lite/css/opentip.css" id="__lite_tt_css__" rel="stylesheet" type="text/css">
+	<link href="https://svc.webspellchecker.net/spellcheck31/lf/scayt3/ckscayt/css/wsc.css" rel="stylesheet" type="text/css">
+	<link href="https://comments.eboardsolutions.com/ckeditor/plugins/lance/css/annotate.css" rel="stylesheet" type="text/css">
+	<link href="https://svc.webspellchecker.net/spellcheck31/lf/scayt3/ckscayt/css/wsc.css" rel="stylesheet" type="text/css">
+	<link href="https://simbli.eboardsolutions.com/ckeditor/plugins/lance/css/annotate.css" rel="stylesheet" type="text/css">
+	<link href="https://svc.webspellchecker.net/spellcheck31/lf/scayt3/ckscayt/css/wsc.css" rel="stylesheet" type="text/css">
+	<link href="https://simbli.eboardsolutions.com/ckeditor/plugins/lance/css/annotate.css" rel="stylesheet" type="text/css">
+	<link href="https://simbli.eboardsolutions.com/ckeditor/plugins/lance/css/annotate.css" rel="stylesheet" type="text/css">
+	<link href="https://svc.webspellchecker.net/spellcheck31/lf/scayt3/ckscayt/css/wsc.css" rel="stylesheet" type="text/css">
+</head>
+<body aria-readonly="false" data-gramm_editor="false" data-wsc-instance="true"><div id='ANg638' class='edComm hideComments'>CSBA NOTE: Government Code 8355 mandates state grant recipients such as a school district to certify to the state contracting agency (e.g., the California Department of Education (CDE)) that it agrees to provide a drug-free workplace by taking the actions specified below. Federal grantees are also subject to the same requirements and must provide the same certifications under the federal Drug-Free Workplace Act (41 USC 8101-8106).<br><br>Federal law contains independent requirements for the drug and alcohol testing of school bus drivers; see BP/AR 4112.42/4212.42/4312.42 - Drug and Alcohol Testing for School Bus Drivers. For language regarding a drug testing program for other employees, see BP/AR 4112.41/4212.41/4312.41 - Employee Drug Testing.</div><annotation contenteditable="false" data-annotation-id="cMDYMQ0" data-ant="%7B%22id%22%3A%22cMDYMQ0%22%2C%22attributes%22%3A%7B%7D%2C%22comments%22%3A%5B%7B%22id%22%3A%22ANg638%22%2C%22userId%22%3A%22fSf0ysaXD9tFEJN0131FOw%3D%3D%22%2C%22userName%22%3A%22CSBA%20NOTE%22%2C%22time%22%3A1573231308%2C%22text%22%3A%22Government%20Code%208355%20mandates%20state%20grant%20recipients%20such%20as%20a%20school%20district%20to%20certify%20to%20the%20state%20contracting%20agency%20%28e.g.%2C%20the%20California%20Department%20of%20Education%20%28CDE%29%29%20that%20it%20agrees%20to%20provide%20a%20drug-free%20workplace%20by%20taking%20the%20actions%20specified%20below.%20Federal%20grantees%20are%20also%20subject%20to%20the%20same%20requirements%20and%20must%20provide%20the%20same%20certifications%20under%20the%20federal%20Drug-Free%20Workplace%20Act%20%2841%20USC%208101-8106%29.%5Cn%5CnFederal%20law%20contains%20independent%20requirements%20for%20the%20drug%20and%20alcohol%20testing%20of%20school%20bus%20drivers%3B%20see%20BP/AR%204112.42/4212.42/4312.42%20-%20Drug%20and%20Alcohol%20Testing%20for%20School%20Bus%20Drivers.%20For%20language%20regarding%20a%20drug%20testing%20program%20for%20other%20employees%2C%20see%20BP/AR%204112.41/4212.41/4312.41%20-%20Employee%20Drug%20Testing.%22%7D%5D%7D" data-track-changes-ignore="true" id="dom-cMDYMQ0" title="CSBA NOTE: Government Code 8355 mandates state gra..."></annotation><br style="display:none">
+<span style="text-autospace:none">The Governing Board believes that the maintenance of a drug- and alcohol-free workplace is essential to staff and student safety and to help ensure a productive and safe work and learning environment.</span><br>
+<br>
+<span style="text-autospace:none">An employee shall not unlawfully manufacture, distribute, dispense, possess, or use any controlled substance in the workplace.&nbsp; (Government Code 8355; 41 USC 8103)</span><br>
+<br>
+<div id='AOA744' class='edComm hideComments'>CSBA NOTE: The following optional paragraph prohibits an employee from being under the influence of alcohol or a controlled substance while on duty and should be modified to reflect district practice.</div><annotation contenteditable="false" data-annotation-id="NDYyNA0" data-ant="%7B%22id%22%3A%22NDYyNA0%22%2C%22attributes%22%3A%7B%7D%2C%22comments%22%3A%5B%7B%22id%22%3A%22AOA744%22%2C%22userId%22%3A%22fSf0ysaXD9tFEJN0131FOw%3D%3D%22%2C%22userName%22%3A%22CSBA%20NOTE%22%2C%22time%22%3A1573231572%2C%22text%22%3A%22The%20following%20optional%20paragraph%20prohibits%20an%20employee%20from%20being%20under%20the%20influence%20of%20alcohol%20or%20a%20controlled%20substance%20while%20on%20duty%20and%20should%20be%20modified%20to%20reflect%20district%20practice.%22%7D%5D%7D" data-selected="true" data-track-changes-ignore="true" id="dom-NDYyNA0" title="CSBA NOTE: The following optional paragraph prohib..."></annotation><br style="display:none">
+<span style="text-autospace:none">Employees are prohibited from being under the influence of controlled substances or alcohol while on duty.&nbsp; For purposes of this policy, on duty means while an employee is on duty during both instructional and noninstructional time in the classroom or workplace, at extracurricular or cocurricular activities, or while transporting students or otherwise supervising them.&nbsp; Under the influence means that the employee&#39;s capabilities are adversely or negatively affected, impaired, or diminished to an extent that impacts the employee&#39;s ability to safely and effectively perform his/her job.</span><br>
+<br>
+<div id='xOA745' class='edComm hideComments'>CSBA NOTE: Government Code 8355 and 41 USC 8103 require the district to certify to the CDE that it has published a statement that notifies employees of the (1) prohibition against drug use, (2) actions that will be taken by the district in the event of a violation, and (3) requirement that employees, as a condition of employment, abide by the district's policy and notify the district in the event of a conviction.</div><annotation contenteditable="false" data-annotation-id="NDYyNA1" data-ant="%7B%22id%22%3A%22NDYyNA1%22%2C%22attributes%22%3A%7B%7D%2C%22comments%22%3A%5B%7B%22id%22%3A%22xOA745%22%2C%22userId%22%3A%22fSf0ysaXD9tFEJN0131FOw%3D%3D%22%2C%22userName%22%3A%22CSBA%20NOTE%22%2C%22time%22%3A1573231606%2C%22text%22%3A%22Government%20Code%208355%20and%2041%20USC%208103%20require%20the%20district%20to%20certify%20to%20the%20CDE%20that%20it%20has%20published%20a%20statement%20that%20notifies%20employees%20of%20the%20%281%29%20prohibition%20against%20drug%20use%2C%20%282%29%20actions%20that%20will%20be%20taken%20by%20the%20district%20in%20the%20event%20of%20a%20violation%2C%20and%20%283%29%20requirement%20that%20employees%2C%20as%20a%20condition%20of%20employment%2C%20abide%20by%20the%20district%27s%20policy%20and%20notify%20the%20district%20in%20the%20event%20of%20a%20conviction.%22%7D%5D%7D" data-track-changes-ignore="true" id="dom-NDYyNA1" title="CSBA NOTE: Government Code 8355 and 41 USC 8103 re..."></annotation><br style="display:none">
+<span style="text-autospace:none">The Superintendent or designee shall notify employees of the district&#39;s prohibition against drug use and the actions that will be taken for violation of such prohibition.&nbsp;&nbsp; (Government Code 8355; 41 USC 8103)</span><br>
+<br>
+<span style="text-autospace:none">An employee shall abide by the terms of this policy and shall notify the district, within five days, of his/her conviction for violation in the workplace of any criminal drug statute. (Government Code 8355; 41 USC 8103)</span><br>
+<br>
+<span style="text-autospace:none">The Superintendent or designee shall notify the appropriate federal granting or contracting agency within 10 days after receiving notification, from an employee or otherwise, of any conviction for a violation occurring in the workplace.&nbsp; (41 USC 8103)</span><br>
+<br>
+<div id='wNw746' class='edComm hideComments'>CSBA NOTE: 41 USC 8104 requires the district, within 30 days of receiving notification from an employee of his/her conviction of a controlled substance offense, to either discipline the employee or require him/her to complete a drug rehabilitation program as specified below. Pursuant to Education Code 44940 and 45304, the district must place an employee on a mandatory leave of absence if he/she is charged with any offense involving aiding or abetting the unlawful sale, use, or exchange to minors of certain controlled substances listed in Health and Safety Code 11054, 11055, and 11056. In the case of a certificated employee, the district must report the mandatory leave of absence offense to the Commission on Teacher Credentialing (CTC) (see BP 4117.7/4317.7 - Employment Status Reports); if the employee is convicted, the CTC will revoke his/her credential. In addition, pursuant to Education Code 44940 and 45304, district may place a certificated or classified employee on a compulsory leave of absence when he/she is charged with a controlled substance offense as defined in Education Code 44011. If the employee is ultimately convicted of the offense, Education Code 44836 and 45123 require the employee to be dismissed. See AR 4118 - Dismissal/Suspension/Disciplinary Action, and see AR 4218 - Dismissal/Suspension/Disciplinary Action.</div><annotation contenteditable="false" data-annotation-id="NDYyNA2" data-ant="%7B%22id%22%3A%22NDYyNA2%22%2C%22attributes%22%3A%7B%7D%2C%22comments%22%3A%5B%7B%22id%22%3A%22wNw746%22%2C%22userId%22%3A%22fSf0ysaXD9tFEJN0131FOw%3D%3D%22%2C%22userName%22%3A%22CSBA%20NOTE%22%2C%22time%22%3A1573231633%2C%22text%22%3A%2241%20USC%208104%20requires%20the%20district%2C%20within%2030%20days%20of%20receiving%20notification%20from%20an%20employee%20of%20his/her%20conviction%20of%20a%20controlled%20substance%20offense%2C%20to%20either%20discipline%20the%20employee%20or%20require%20him/her%20to%20complete%20a%20drug%20rehabilitation%20program%20as%20specified%20below.%20Pursuant%20to%20Education%20Code%2044940%20and%2045304%2C%20the%20district%20must%20place%20an%20employee%20on%20a%20mandatory%20leave%20of%20absence%20if%20he/she%20is%20charged%20with%20any%20offense%20involving%20aiding%20or%20abetting%20the%20unlawful%20sale%2C%20use%2C%20or%20exchange%20to%20minors%20of%20certain%20controlled%20substances%20listed%20in%20Health%20and%20Safety%20Code%2011054%2C%2011055%2C%20and%2011056.%20In%20the%20case%20of%20a%20certificated%20employee%2C%20the%20district%20must%20report%20the%20mandatory%20leave%20of%20absence%20offense%20to%20the%20Commission%20on%20Teacher%20Credentialing%20%28CTC%29%20%28see%20BP%204117.7/4317.7%20-%20Employment%20Status%20Reports%29%3B%20if%20the%20employee%20is%20convicted%2C%20the%20CTC%20will%20revoke%20his/her%20credential.%20In%20addition%2C%20pursuant%20to%20Education%20Code%2044940%20and%2045304%2C%20district%20may%20place%20a%20certificated%20or%20classified%20employee%20on%20a%20compulsory%20leave%20of%20absence%20when%20he/she%20is%20charged%20with%20a%20controlled%20substance%20offense%20as%20defined%20in%20Education%20Code%2044011.%20If%20the%20employee%20is%20ultimately%20convicted%20of%20the%20offense%2C%20Education%20Code%2044836%20and%2045123%20require%20the%20employee%20to%20be%20dismissed.%20See%20AR%204118%20-%20Dismissal/Suspension/Disciplinary%20Action%2C%20and%20see%20AR%204218%20-%20Dismissal/Suspension/Disciplinary%20Action.%22%7D%5D%7D" data-selected="true" data-track-changes-ignore="true" id="dom-NDYyNA2" title="CSBA NOTE: 41 USC 8104 requires the district, with..."></annotation><br style="display:none">
+<span style="text-autospace:none">In accordance with law and the district&#39;s collective bargaining agreements, the Superintendent or designee shall take appropriate disciplinary action, up to and including termination, against an employee for violating the terms of this policy and/or shall require the employee to satisfactorily participate in and complete a drug assistance or rehabilitation program approved by a federal, state, or local public health or law enforcement agency or other appropriate agency.</span><br>
+<br>
+<strong><span style="text-autospace:none">Drug-Free Awareness Program</span></strong><br>
+<br>
+<span style="text-autospace:none">The Superintendent or designee shall establish a drug-free awareness program to inform employees about:&nbsp; (Government Code 8355; 41 USC 8103)</span>
+<ol>
+	<li>The dangers of drug abuse in the workplace<br>
+	&nbsp;</li>
+	<li><span style="text-autospace:none">The district&#39;s policy of maintaining a drug-free workplace</span><br>
+	&nbsp;</li>
+	<li><span style="text-autospace:none">Available drug counseling, rehabilitation, and employee assistance programs</span><br>
+	&nbsp;</li>
+	<li><span style="text-autospace:none">The penalties that may be imposed on employees for drug abuse violations occurring in the workplace</span></li>
+</ol>
+</body>
+</html>
+
